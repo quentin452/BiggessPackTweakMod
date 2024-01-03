@@ -1,0 +1,16 @@
+[
+{
+  "modid": "biggesspacktweak",
+  "name": "Biggess Pack Tweak",
+  "description": "Just a mods that add tweaks for my 1.7.10 Biggess Pack Cat Edition modpack",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["I'm A Cat[FR]#7202"],
+  "credits": "I'm A Cat[FR]#7202",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

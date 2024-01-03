@@ -1,0 +1,31 @@
+name: Performances problems report
+description: Report an issue with my mod or other mods of vanilla
+title: "[TYPE THE MC VERSION]: "
+labels: ["bug"]
+assignees:
+  - quentin452
+body:
+# Obligatory for precise context
+  - type: input
+    id: modpack
+    attributes:
+      label: Modpack
+      description: If you used the mod in a modpack, you should include the pack's exact name and version here to make debugging easier.
+    validations:
+      required: false
+# Essential
+  - type: textarea
+    id: logs
+    attributes:
+      label: Spark profiler
+      description: Attach the .sparkprofile or the link of your profiler
+    validations:
+      required: true
+# Essential
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Describe how and when you experience this performances problems.
+    validations:
+      required: true
