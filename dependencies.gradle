@@ -57,6 +57,7 @@ dependencies {
 
     implementation "curse.maven:fplib-665627:4905393-deobf-sources-api"
     implementation "curse.maven:thaumcraft-223628:2227552-deobf-sources-api"
+    implementation "curse.maven:farlanders-336432:2777303-deobf-sources-api"
 
   //  runtimeOnly('com.github.GTNewHorizons:BuildCraft:7.1.36:dev')
   //  transformedMod("com.github.GTNewHorizons:OpenComputers:1.10.0-GTNH:sources")

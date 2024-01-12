@@ -14,9 +14,9 @@ import lombok.RequiredArgsConstructor;
 public enum Mixin implements IMixin {
 
     // TWEAKING MIXINS
-    common_thaumcraft_MixinItemThaumonomicon(Side.COMMON,
-        require(TargetedMod.THAUMCRAFT4).and(m -> BiggessPackTweakConfig.disablingThaumonomiconbookfromThaumcraft),
-        "thaumcraft.MixinItemThaumonomicon")
+    common_farlanders_MixinItemMysticWandTeleport(Side.COMMON,
+        require(TargetedMod.FARLANDERS).and(m -> BiggessPackTweakConfig.enableMixinItemMysticWandTeleport),
+        "farlanders.MixinItemMysticWandTeleport")
 
     // MOD-FILTERED MIXINS
 
