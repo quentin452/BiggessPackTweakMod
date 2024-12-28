@@ -11,6 +11,7 @@ import lombok.RequiredArgsConstructor;
 
 @RequiredArgsConstructor
 public enum TargetedMod implements ITargetedMod {
+    FARLANDERS("The Farlanders", false, startsWith("farlanders")),
     ;
 
     @Getter
