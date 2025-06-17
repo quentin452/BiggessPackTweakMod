@@ -1,0 +1,14 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="GPL V3"
+
+[[mods]]
+modId="biggesspacktweak"
+version="${file.jarVersion}"
+displayName="Biggess Pack Tweak"
+logoFile="examplemod.png"
+credits="Thanks for this example mod goes to Java"
+authors="Love, Cheese and small house plants"
+description='''
+hum,hum
+'''

@@ -1,6 +1,6 @@
 # Description
 
-Just a mod that add tweaks for my Biggess Pack Cat Edition 1.7.10 LTS modpack
+Just a mod that add tweaks for my Biggess Pack Cat Edition 1.7.10 and 1.16.5 FORGE
 
 THIS MOD IS RECOMMANDED TO BE USED IN BIGGESS PACK CAT EDITION,but you could use this in your pack (just read the Wiki)
 
@@ -14,7 +14,7 @@ Go here : [Wiki](https://github.com/quentin452/BiggessPackTweakMod/wiki)
 
 [*Curseforge*](https://legacy.curseforge.com/minecraft/mc-mods/BiggessPackTweakMod)
 
-# Requirement
+# Requirement (FOR THE 1.7.10 VERSION ONLY)
 
 [Unimixins](https://legacy.curseforge.com/minecraft/mc-mods/unimixins/files/4600285)
 
