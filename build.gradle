@@ -53,6 +53,8 @@ dependencies {
     implementation "curse.maven:mutant-more-539994:4418147-deobf-sources-api"
     implementation "curse.maven:geckolib-388172:4182600-deobf-sources-api"
     implementation "curse.maven:deuf-duplicate-entity-uuid-fix-296646:3885123-deobf-sources-api"
+    implementation "curse.maven:betternether-reforged-526921:3513533-deobf-sources-api"
+
 }
 
 mixin {

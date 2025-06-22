@@ -5,49 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8eab7993-68ad-4763-9efc-e8bded9b4161" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/fr/iamacat/biggesspacktweaks/mixin/deuf/MixinDEUF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fr/iamacat/biggesspacktweaks/mixin/infiniteabyss/MixinGlobalTrigger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fr/iamacat/biggesspacktweaks/mixin/mutantmore/MixinMutantBlazeEntity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.attach_pid552719" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/bottleneckorpoorperformances_report.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/bug_report.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/feature_request.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/scripts/update_version" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.profileconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CREDITS-fml.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE-fml.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MinecraftForge-Credits.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MinecraftForge-License.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/iamacat/biggesspacktweaks/mixin/betternether/MixinEntityFlyingPig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8.3/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8.3/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8.3/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8.3/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8.3/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8.3/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dependencies.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/forge-1.7.10-10.13.4.1558-1.7.10-changelog.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jitpack.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repositories.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/iamacat/biggesspacktweaks/BiggessPackTweak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/iamacat/biggesspacktweaks/BiggessPackTweak.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/iamacat/biggesspacktweaks/BiggessPackTweakLogger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/iamacat/biggesspacktweaks/Tags.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/iamacat/biggesspacktweaks/Tags.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/iamacat/biggesspacktweaks/asm/Mixin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/iamacat/biggesspacktweaks/asm/PackMixinPlugin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/iamacat/biggesspacktweaks/asm/TargetedMod.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/iamacat/biggesspacktweaks/config/BiggessPackTweakConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/iamacat/biggesspacktweaks/config/BiggessPackTweakGuiConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/iamacat/biggesspacktweaks/config/BiggessPackTweakGuiConfigFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/iamacat/biggesspacktweaks/mixins/common/farlanders/MixinItemMysticWandTeleport.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/iamacat/biggesspacktweaks/proxy/ClientProxy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/iamacat/biggesspacktweaks/proxy/CommonProxy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/iamacat/biggesspacktweaks/proxy/ServerProxy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mcmod.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mixins.biggesspacktweak.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/biggesspacktweak.mixin.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/biggesspacktweak.mixin.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,29 +88,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Gradle.0. Build and Test.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.BiggessPackTweakMod [build].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.BiggessPackTweakMod [createMcpToSrg].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.BiggessPackTweakMod [processIdeaSettings].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.C:/Users/iamacat/Documents/GitHub/BiggessPackTweakMod [createMcpToSrg].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Upgrade Gradle wrapper.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;1.16.5-forge&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/iamacat/Documents/GitHub/BiggessPackTweakMod&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Gradle.0. Build and Test.executor": "Run",
+    "Gradle.BiggessPackTweakMod [build].executor": "Run",
+    "Gradle.BiggessPackTweakMod [createMcpToSrg].executor": "Run",
+    "Gradle.BiggessPackTweakMod [processIdeaSettings].executor": "Run",
+    "Gradle.C:/Users/iamacat/Documents/GitHub/BiggessPackTweakMod [createMcpToSrg].executor": "Run",
+    "Gradle.Upgrade Gradle wrapper.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "1.16.5-forge",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/iamacat/Documents/GitHub/BiggessPackTweakMod",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;stardust.markdown.MarkdownSplitEditorSuppressor:keyList&quot;: []
+  "keyToStringList": {
+    "stardust.markdown.MarkdownSplitEditorSuppressor:keyList": []
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Gradle.0. Build and Test">
     <configuration name="Run Client (IJ Native)" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="GradleStart" />

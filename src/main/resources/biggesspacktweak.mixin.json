@@ -8,6 +8,7 @@
     "core.MixinUtil",
     "infiniteabyss.MixinGlobalTrigger",
     "mutantmore.MixinMutantBlazeEntity",
+    "betternether.MixinEntityFlyingPig",
     "deuf.MixinDEUF"
   ],
   "client": []
