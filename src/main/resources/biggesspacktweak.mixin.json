@@ -5,9 +5,10 @@
   "compatibilityLevel": "JAVA_8",
   "minVersion": "0.8.4",
   "mixins": [
-    "core.MixinUtil",
     "infiniteabyss.MixinGlobalTrigger",
     "mutantmore.MixinMutantBlazeEntity",
+    "cyclic.MixinUtilRender",
+    "cyclic.MixinEnchantExcavation",
     "deuf.MixinDEUF"
   ],
   "client": []
